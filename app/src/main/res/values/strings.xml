@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">homework1</string>
+    <string name="enter_text">Enter text:</string>
+    <string name="name">Name:</string>
+    <string name="phone">Phone:</string>
+    <string name="number">Number:</string>
+    <string name="password">Password:</string>
+    <string name="hello">Hello!</string>
+</resources>
